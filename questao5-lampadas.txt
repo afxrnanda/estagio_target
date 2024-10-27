@@ -1,0 +1,6 @@
+1. Ligaria um interruptor e deixaria ele ligado tempo suficiente para a lâmpada esquentar;
+2. Desligaria esse primeiro interruptor e ligaria um segundo;
+3. Iria para a sala das lâmpadas e usaria a seguinte lógica:
+- A lâmpada acesa é controlada pelo interruptor 2;
+- A lâmpada que está apagada e quente é controlada pelo interruptor 1;
+- E a lâmpada que está apagada e fria é controlada pelo interruptor 3.
